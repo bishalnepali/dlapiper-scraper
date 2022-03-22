@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Sharafuddin;Esam;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;303 Colorado Street  Suite 3000;Austin;Texas;78701-4653;United States of America
+TEL;WORK:+1 512 457 7089  
+EMAIL;CHARSET=utf-8; INTERNET:esam.sharafuddin@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:=2C Scientific Advisor
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:https://www.linkedin.com/in/esam-sharafuddin-ph-d-979a542=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/sharafuddin-esam/
+END:VCARD

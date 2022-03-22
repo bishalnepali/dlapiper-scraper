@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Kane;Joshua;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 212 335 4561
+TEL;WORK;FAX:+1 917 778 8561
+TEL;CELL:+1 917 328 7119
+EMAIL;CHARSET=utf-8; INTERNET:joshua.kane@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/k/kane-joshua/
+END:VCARD

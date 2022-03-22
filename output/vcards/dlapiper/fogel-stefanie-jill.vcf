@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Fogel;Stefanie;Jill;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;33 Arch Street 26th Floor;Boston;Massachusetts;02110-1447;United States of America
+TEL;WORK:+1 617 406 6053
+TEL;WORK;FAX:+1 215 606 3364
+EMAIL;CHARSET=utf-8; INTERNET:stefanie.fogel@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Global Co-Chair=2C Consumer Goods=2C Food and Retail Sector=0D=0ACo-Chair=2C FDA Regulatory Practice=0D=0ACo-Chair=2C Food and Beverage Subsector
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/f/fogel-stefanie-jill/
+END:VCARD

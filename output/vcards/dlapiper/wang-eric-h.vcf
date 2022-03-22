@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Wang;Eric;H.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 University Avenue;East Palo Alto;California;94303-2214;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;555 Mission Street Suite 2400;San Francisco;California;94105-2933;United States of America
+TEL;WORK:+1 650 833 2106
+TEL;WORK;FAX:+1 650 687 1205
+TEL;CELL:+1 650 269 2299
+EMAIL;CHARSET=utf-8; INTERNET:eric.wang@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Co-Chair=2C Northern California Corporate and Finance practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/w/wang-eric-h/
+END:VCARD

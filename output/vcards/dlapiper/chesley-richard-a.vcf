@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Chesley;Richard;A.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 312 368 3430
+TEL;WORK;FAX:+1 312 630 5330
+TEL;CELL:+1 847 858 6133
+EMAIL;CHARSET=utf-8; INTERNET:richard.chesley@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Co-US Managing Partner=0D=0AChair=2C&nbsp=3BRestructuring Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/c/chesley-richard-a/
+END:VCARD

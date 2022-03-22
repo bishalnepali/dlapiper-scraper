@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Guarin;John;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 212 776 3877
+TEL;WORK;FAX:+1 917 778 8077
+TEL;CELL:+1 718 679 7471
+EMAIL;CHARSET=utf-8; INTERNET:john.guarin@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Principal Tax Advisor=2C Latin American Tax Desk=2C Project Manager
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/g/guarin-john/
+END:VCARD

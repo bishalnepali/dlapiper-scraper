@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:De Lazzari;Monica;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 University Avenue;East Palo Alto;California;94303-2214;United States of America
+TEL;WORK:+1 650 833 2034
+TEL;WORK;FAX:+1 650 687 1134
+EMAIL;CHARSET=utf-8; INTERNET:monica.delazzari@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/d/de-lazzari-monica/
+END:VCARD

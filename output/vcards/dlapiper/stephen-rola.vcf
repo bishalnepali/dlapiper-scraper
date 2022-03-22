@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Rola;Steve;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;33 Arch Street 26th Floor;Boston;Massachusetts;02110-1447;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;401 B Street Suite 1700;San Diego;California;92101-4297;United States of America
+TEL;WORK:+1 617 406 6087
+TEL;WORK;FAX:+1 617 406 6207
+EMAIL;CHARSET=utf-8; INTERNET:steve.rola@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate=2C Not admitted in Massachusetts but being supervised by a licensed Massachusetts Bar member.
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/stephen-rola/
+END:VCARD

@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Marrs;Nathaniel;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+TEL;WORK:+1 312 368 2169
+TEL;WORK;FAX:+1 312 251 2169
+EMAIL;CHARSET=utf-8; INTERNET:nathaniel.marrs@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Co-Head=2C Investment Funds Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/m/nathaniel-marrs/
+END:VCARD

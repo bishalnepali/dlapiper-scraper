@@ -1,0 +1,11 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Bergdolt;Robert;H.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;4141 Parklake Avenue Suite 300;Raleigh;North Carolina;27612-2350;United States of America
+TEL;WORK:+1 919 786 2002
+EMAIL;CHARSET=utf-8; INTERNET:robert.bergdolt@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Managing Partner=2C Raleigh Office
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/b/bergdolt-robert-h/
+END:VCARD

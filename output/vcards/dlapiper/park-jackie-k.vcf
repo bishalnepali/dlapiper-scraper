@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Park;Jackie;K.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;550 South Hope Street Suite 2400;Los Angeles;California;90071-2678;United States of America
+TEL;WORK:+1 213 330 7743
+TEL;WORK;FAX:+1 213 330 7543
+EMAIL;CHARSET=utf-8; INTERNET:jackie.park@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Co-US Managing Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/p/park-jackie-k/
+END:VCARD

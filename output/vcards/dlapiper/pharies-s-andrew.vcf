@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Pharies;S. Andrew;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;4365 Executive Drive Suite 1100;San Diego;California;92121-2133;United States of America
+TEL;WORK:+1 858 677 1427
+TEL;WORK;FAX:+1 858 638 5027
+TEL;CELL:+1 619 997 9252
+EMAIL;CHARSET=utf-8; INTERNET:andrew.pharies@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/p/pharies-s-andrew/
+END:VCARD

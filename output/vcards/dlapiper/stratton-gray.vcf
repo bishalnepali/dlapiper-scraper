@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Stratton;Gray;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1000 Louisiana Street Suite 2800;Houston;Texas;77002-5005;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+TEL;WORK:+1 713 425 8409
+TEL;WORK;FAX:+1 713 300 6009
+TEL;CELL:+1 832 588 8548
+EMAIL;CHARSET=utf-8; INTERNET:gray.stratton@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/stratton-gray/
+END:VCARD

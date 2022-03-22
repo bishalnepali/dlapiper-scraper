@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Baker;Charles;;;III
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;33 Arch Street 26th Floor;Boston;Massachusetts;02110-1447;United States of America
+TEL;WORK:+1 617 406 6003
+TEL;WORK;FAX:+1 617 406 6122
+EMAIL;CHARSET=utf-8; INTERNET:charles.baker@dlapiper.com 
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/b/baker-charles/
+END:VCARD

@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Simpson;Vianca;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1201 West Peachtree Street Suite 2900;Atlanta;Georgia;30309-3449;United States of America
+TEL;WORK:+1 404 736 7933
+TEL;WORK;FAX:+1 404 682 7833
+EMAIL;CHARSET=utf-8; INTERNET:vianca.simpson@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:=2C Admitted in New York=0D=0ANot admitted in Georgia but being supervised by an active Georgia Bar Member
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/simpson-vianca/
+END:VCARD

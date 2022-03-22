@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Zacharias;Jasmine;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;200 South Biscayne Boulevard Suite 2500;Miami;Florida;33131-5341;United States of America
+TEL;WORK:+1 305 423 8513
+TEL;WORK;FAX:+1 305 470 7417
+EMAIL;CHARSET=utf-8; INTERNET:jasmine.zacharias@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/z/zacharias-jasmine/
+END:VCARD

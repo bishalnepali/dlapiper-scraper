@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Sosa-Lloréns;José;A.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;Edificio Ochoa=2C Suite 401 500 Calle de la Tanca;San Juan;Puerto Rico;00901-1969;Puerto Rico
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 787 945 9116
+TEL;WORK;FAX:+1 939 697 6118
+EMAIL;CHARSET=utf-8; INTERNET:jose.sosa@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/sosallorens-jose-a/
+END:VCARD

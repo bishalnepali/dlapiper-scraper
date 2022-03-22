@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Schwartz;Howard;S.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;The Marbury Building 6225 Smith Avenue;Baltimore;Maryland;21209-3600;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+TEL;WORK:+1 410 580 4251
+TEL;WORK;FAX:+1 410 580 3251
+EMAIL;CHARSET=utf-8; INTERNET:howard.schwartz@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Regional Office Head for Baltimore Corporate &amp=3B Securities Group
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/schwartz-howard-s/
+END:VCARD

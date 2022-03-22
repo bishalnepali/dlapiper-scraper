@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Boyett;Hunter;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;200 South Biscayne Boulevard Suite 2500;Miami;Florida;33131-5341;United States of America
+TEL;WORK:+1 305 702 8846
+TEL;WORK;FAX:+1 305 397 2241
+TEL;CELL:+1 786 280 4126
+EMAIL;CHARSET=utf-8; INTERNET:hunter.boyett@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with Hunter on LinkedIn: https://www.linkedin.com/in/hunter-boyett-67bbb3110/=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/b/boyett-hunter/
+END:VCARD

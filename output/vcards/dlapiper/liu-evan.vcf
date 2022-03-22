@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Liu;Evan;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Liberty Place 1650 Market Street Suite 5000;Philadelphia;Pennsylvania;19103-7300;United States of America
+TEL;WORK:+1 215 656 2471
+TEL;WORK;FAX:+1 215 689 4571
+EMAIL;CHARSET=utf-8; INTERNET:evan.liu@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Senior Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/l/liu-evan/
+END:VCARD

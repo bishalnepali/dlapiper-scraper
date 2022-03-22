@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Figueroa-Rodriguez;Diego;R.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;200 South Biscayne Boulevard Suite 2500;Miami;Florida;33131-5341;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 305 423 8556
+TEL;WORK;FAX:+1 305 468 6265
+EMAIL;CHARSET=utf-8; INTERNET:diego.figueroa@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/f/diego-figueroarodriguez/
+END:VCARD

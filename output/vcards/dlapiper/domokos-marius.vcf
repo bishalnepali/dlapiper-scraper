@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Domokos;Marius;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;2000 University Avenue;East Palo Alto;California;94303-2214;United States of America
+TEL;WORK:+1 202 799 4520
+TEL;WORK;FAX:+1 202 863 7830
+EMAIL;CHARSET=utf-8; INTERNET:marius.domokos@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/d/domokos-marius/
+END:VCARD

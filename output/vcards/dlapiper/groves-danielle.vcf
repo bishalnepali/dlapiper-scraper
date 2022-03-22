@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Groves;Danielle;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2525 East Camelback Road Suite 1000;Phoenix;Arizona;85016-4232;United States of America
+TEL;WORK:+1 480 606 5110
+TEL;WORK;FAX:+1 480 606 5511
+EMAIL;CHARSET=utf-8; INTERNET:danielle.groves@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Staff Attorney=2C Admitted in Ohio=0D=0ANot admitted in Arizona but being supervised by a licensed Arizona Bar member
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/g/groves-danielle/
+END:VCARD

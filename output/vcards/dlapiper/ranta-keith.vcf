@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Ranta;Keith;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;33 Arch Street 26th Floor;Boston;Massachusetts;02110-1447;United States of America
+TEL;WORK:+1 202 799 4305
+TEL;WORK;FAX:+1 202 799 5005
+EMAIL;CHARSET=utf-8; INTERNET:keith.ranta@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/ranta-keith/
+END:VCARD

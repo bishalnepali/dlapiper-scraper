@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Pieratt;J.;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;303 Colorado Street  Suite 3000;Austin;Texas;78701-4653;United States of America
+TEL;WORK:+1 512 457 7024
+TEL;WORK;FAX:+1 512 721 2224
+EMAIL;CHARSET=utf-8; INTERNET:j.pieratt@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Location Head=2C Austin Real Estate Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/p/pieratt-john-moss/
+END:VCARD

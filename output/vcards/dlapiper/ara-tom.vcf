@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Ara;Tom;K.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 Avenue of the Stars Suite 400 North Tower;Los Angeles;California;90067-4735;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;36/F=2C Shanghai World Financial Center 100 Century Avenue=2C Pudong;Shanghai;;200120;China
+TEL;WORK:+1 310 595 3110
+TEL;WORK;FAX:+1 310 595 3394
+EMAIL;CHARSET=utf-8; INTERNET:tom.ara@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Co-Chair=2C Entertainment Transactions Practice=0D=0ACo-Chair=2C Entertainment Finance Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/a/ara-tom/
+END:VCARD

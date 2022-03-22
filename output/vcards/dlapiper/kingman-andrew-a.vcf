@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Kingman;Andrew;A.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;33 Arch Street 26th Floor;Boston;Massachusetts;02110-1447;United States of America
+TEL;WORK:+1 617 406 6048
+TEL;WORK;FAX:+1 617 406 6148
+EMAIL;CHARSET=utf-8; INTERNET:andrew.kingman@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel=2C Senior Managing Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/k/kingman-andrew-a/
+END:VCARD

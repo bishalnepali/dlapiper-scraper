@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Green;Dacia;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1201 West Peachtree Street Suite 2900;Atlanta;Georgia;30309-3449;United States of America
+TEL;WORK:+1 404 736 7803
+TEL;WORK;FAX:+1 404 682 7822
+EMAIL;CHARSET=utf-8; INTERNET:dacia.green@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/g/green-dacia/
+END:VCARD

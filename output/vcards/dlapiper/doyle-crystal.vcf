@@ -1,0 +1,10 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Doyle;Crystal;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+EMAIL;CHARSET=utf-8; INTERNET:crystal.doyle@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Pro Bono Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/d/doyle-crystal/
+END:VCARD

@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Novak;Paul;S.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;The Marbury Building 6225 Smith Avenue;Baltimore;Maryland;21209-3600;United States of America
+TEL;WORK:+1 410 580 4229
+TEL;WORK;FAX:+1 410 580 3229
+EMAIL;CHARSET=utf-8; INTERNET:paul.novak@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/n/paul-novak-s/
+END:VCARD

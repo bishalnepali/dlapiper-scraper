@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Carbins;Amy;B.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;555 Mission Street Suite 2400;San Francisco;California;94105-2933;United States of America
+TEL;WORK:+1 202 799 4518
+TEL;WORK;FAX:+1 202 799 5314
+EMAIL;CHARSET=utf-8; INTERNET:amy.carbins@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Location Head=2C Washington=2C DC Real Estate Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/c/carbins-amy-b/
+END:VCARD

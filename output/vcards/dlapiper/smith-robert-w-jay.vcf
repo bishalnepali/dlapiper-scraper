@@ -1,0 +1,15 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Smith;Robert W. ;;;Jr.
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;The Marbury Building 6225 Smith Avenue;Baltimore;Maryland;21209-3600;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;100 Light Street Suite 1350;Baltimore;Maryland;21202-1153;United States of America
+TEL;WORK:+1 410 580 4266
+TEL;WORK;FAX:+1 410 580 3266
+TEL;CELL:+1 202 439 7887
+EMAIL;CHARSET=utf-8; INTERNET:jay.smith@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me on LinkedIn: http://www.linkedin.com/profile/view?id=3030520&authType=NAME_SEARCH&authToken=mlip&locale=en_US&srchid=2280763241394455525712&srchindex=1&srchtotal=1&trk=vsrp_people_res_name&trkInfo=VSRPsearchId%3A2280763241394455525712%2CVSRPtargetId%3A3030520%2CVSRPcmpt%3Aprimary=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/smith-robert-w-jay/
+END:VCARD

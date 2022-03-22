@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Nishnick;Larry;W.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;4365 Executive Drive Suite 1100;San Diego;California;92121-2133;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;2000 Avenue of the Stars Suite 400 North Tower;Los Angeles;California;90067-4735;United States of America
+TEL;WORK:+1 858 677 1414
+TEL;WORK;FAX:+1 858 638 5014
+TEL;CELL:+1 858 752 2123
+EMAIL;CHARSET=utf-8; INTERNET:larry.nishnick@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Chair=2C Southern California Corporate and Securities
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/n/nishnick-larry-w/
+END:VCARD

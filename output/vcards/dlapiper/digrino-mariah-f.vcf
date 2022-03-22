@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:DiGrino;Mariah;F.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+TEL;WORK:+1 312 368 7261
+TEL;WORK;FAX:+1 312 251 5833
+TEL;CELL:+1 773 343 5675
+EMAIL;CHARSET=utf-8; INTERNET:mariah.digrino@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/d/digrino-mariah-f/
+END:VCARD

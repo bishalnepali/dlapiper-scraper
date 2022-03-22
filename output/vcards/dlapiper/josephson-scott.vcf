@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Josephson;Scott;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+TEL;WORK:+1 312 368 2129
+TEL;WORK;FAX:+1 312 251 5723
+EMAIL;CHARSET=utf-8; INTERNET:scott.josephson@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/j/josephson-scott/
+END:VCARD

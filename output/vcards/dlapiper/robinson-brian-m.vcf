@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Robinson;Brian;M.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Liberty Place 1650 Market Street Suite 5000;Philadelphia;Pennsylvania;19103-7300;United States of America
+TEL;WORK:+1 215 656 2445
+TEL;WORK;FAX:+1 215 606 2145
+TEL;CELL:+1 215 205 1780
+EMAIL;CHARSET=utf-8; INTERNET:brian.robinson@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/robinson-brian-m/
+END:VCARD

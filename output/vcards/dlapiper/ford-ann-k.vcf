@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Ford;Ann;K.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 202 799 4140
+TEL;WORK;FAX:+1 202 799 5000
+EMAIL;CHARSET=utf-8; INTERNET:ann.ford@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Executive Director=2C Clients and Sectors
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me on LinkedIn: https://www.linkedin.com/pub/ann-ford/1/3b1/172=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/f/ford-ann-k/
+END:VCARD

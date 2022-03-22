@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Rodriguez;Joseline;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;200 South Biscayne Boulevard Suite 2500;Miami;Florida;33131-5341;United States of America
+TEL;WORK:+1 305 423 8574
+TEL;WORK;FAX:+1 305 503 8812
+EMAIL;CHARSET=utf-8; INTERNET:joseline.rodriguez@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/joseline-rodriguezortiz/
+END:VCARD

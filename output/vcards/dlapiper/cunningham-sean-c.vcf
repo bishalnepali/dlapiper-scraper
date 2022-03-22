@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Cunningham;Sean;C.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;401 B Street Suite 1700;San Diego;California;92101-4297;United States of America
+TEL;WORK:+1 619 699 2900
+TEL;WORK;FAX:+1 619 764 6600
+TEL;CELL:+1 619 889 4281
+EMAIL;CHARSET=utf-8; INTERNET:sean.cunningham@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C US Chair=2C Patent Litigation Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/c/cunningham-sean-c/
+END:VCARD

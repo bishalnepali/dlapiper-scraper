@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Hans;Richard;F.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 212 335 4530
+TEL;WORK;FAX:+1 212 884 8730
+EMAIL;CHARSET=utf-8; INTERNET:richard.hans@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Co-Managing Partner=2C New York Office=0D=0AGlobal Co-Chair=2C Financial Services Sector
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me on LinkedIn: http://www.linkedin.com/profile/view?id=55057344&locale=en_US&trk=tyah2&trkInfo=tas%3Arichard%20han%2Cidx%3A2-2-3=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/h/hans-richard-f/
+END:VCARD

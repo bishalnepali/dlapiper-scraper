@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Toweill;Teale;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;160 Aldersgate Street;London;;EC1A 4HT;United Kingdom
+TEL;WORK:+44 2071537571
+TEL;CELL:+44 7971142350
+EMAIL;CHARSET=utf-8; INTERNET:teale.toweill@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/t/toweill-teale/
+END:VCARD

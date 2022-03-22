@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Macias Valdes;Antonio;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;200 South Biscayne Boulevard Suite 2500;Miami;Florida;33131-5341;United States of America
+TEL;WORK:+1 305 423 8526
+TEL;WORK;FAX:+1 305 503 7506 
+EMAIL;CHARSET=utf-8; INTERNET:Antonio.MaciasValdes@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Principal Economist
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/m/macias-antonio/
+END:VCARD

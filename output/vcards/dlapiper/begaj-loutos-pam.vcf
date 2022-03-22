@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Begaj-Loutos;Pam;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+TEL;WORK:+1 312 368 3398
+TEL;WORK;FAX:+1 312 251 2198
+TEL;CELL:+1 312 282 2657
+EMAIL;CHARSET=utf-8; INTERNET:pamela.loutos@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/b/begaj-loutos-pam/
+END:VCARD

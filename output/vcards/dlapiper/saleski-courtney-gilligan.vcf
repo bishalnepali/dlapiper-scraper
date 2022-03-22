@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Saleski;Courtney;Gilligan;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Liberty Place 1650 Market Street Suite 5000;Philadelphia;Pennsylvania;19103-7300;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+TEL;WORK:+1 215 656 2431
+TEL;WORK;FAX:+1 215 606 2046
+TEL;CELL:+1 215 687 9105
+EMAIL;CHARSET=utf-8; INTERNET:courtney.saleski@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Co-Chair=2C White Collar=2C Corporate Crime and Investigations Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/saleski-courtney-gilligan/
+END:VCARD

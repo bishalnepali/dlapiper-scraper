@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Sanchez;Vinny;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;2000 Avenue of the Stars Suite 400 North Tower;Los Angeles;California;90067-4735;United States of America
+TEL;WORK:+1 312 368 3420
+TEL;WORK;FAX:+1 312 630 7408
+EMAIL;CHARSET=utf-8; INTERNET:vincent.sanchez@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Global Co-Chair=2C Technology Transactions and Strategic Sourcing
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/sanchez-vinny/
+END:VCARD

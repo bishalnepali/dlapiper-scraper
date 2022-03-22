@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Solberg;Brett;D.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1000 Louisiana Street Suite 2800;Houston;Texas;77002-5005;United States of America
+TEL;WORK:+1 713 425 8482
+TEL;WORK;FAX:+1 713 300 6082
+EMAIL;CHARSET=utf-8; INTERNET:brett.solberg@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me on LinkedIn: http://www.linkedin.com/in/brettsolberg=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/solberg-brett-d/
+END:VCARD

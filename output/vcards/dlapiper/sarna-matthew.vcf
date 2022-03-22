@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Sarna;Matthew;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1201 North Market Street Suite 2100;Wilmington;Delaware;19801;United States of America
+TEL;WORK:+1 302 468 5659
+TEL;WORK;FAX:+1 302 397 2336
+EMAIL;CHARSET=utf-8; INTERNET:matthew.sarna@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/sarna-matthew/
+END:VCARD

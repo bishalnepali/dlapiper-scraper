@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Osborne;Damon;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+TEL;WORK:+1 202 799 4403
+TEL;WORK;FAX:+1 202 799 5403
+TEL;CELL:+1 718 757 5931
+EMAIL;CHARSET=utf-8; INTERNET:damon.osborne@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Senior Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with Damon: https://www.linkedin.com/in/damon-osborne-09131aa/=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/o/osborne-damon/
+END:VCARD

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Schwartz;Matt;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;401 B Street Suite 1700;San Diego;California;92101-4297;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;555 Mission Street Suite 2400;San Francisco;California;94105-2933;United States of America
+TEL;WORK:+1 858 638 6834
+TEL;WORK;FAX:+1 858 638 5134
+EMAIL;CHARSET=utf-8; INTERNET:matt.schwartz@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Head of Venture &amp=3B Growth Lending=0D=0AChair=2C West Coast Finance Practice Group
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/schwartz-matt/
+END:VCARD

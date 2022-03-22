@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Smith;Edward;"Smitty";;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+TEL;WORK:+1 202 799 4605
+TEL;WORK;FAX:+1 202 799 5640
+EMAIL;CHARSET=utf-8; INTERNET:edward.smith@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Managing Partner=2C Washington=2C DC Office=0D=0AChair=2C Regulatory and Government Affairs Practice=0D=0ANational Diversity and Inclusion Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/smith-edward-howard/
+END:VCARD

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Nguyen;Tia;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;701 Fifth Avenue Suite 6900;Seattle;Washington;98104-7029;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;555 Mission Street Suite 2400;San Francisco;California;94105-2933;United States of America
+TEL;WORK:+1 206 839 4846
+TEL;WORK;FAX:+1 206 494 1780
+EMAIL;CHARSET=utf-8; INTERNET:tia.nguyen@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/n/nguyen-tia/
+END:VCARD

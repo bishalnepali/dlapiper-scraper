@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Tsukanov;Philipp;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 University Avenue;East Palo Alto;California;94303-2214;United States of America
+TEL;WORK:+1 650 833 1593
+TEL;WORK;FAX:+1 650 687 9289
+TEL;CELL:+1 510 701 76449
+EMAIL;CHARSET=utf-8; INTERNET:philipp.tsukanov@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/t/philipp-tsukanov/
+END:VCARD

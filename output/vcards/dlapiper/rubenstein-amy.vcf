@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Rubenstein;Amy;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;444 West Lake Street Suite 900;Chicago;Illinois;60606-0089;United States of America
+TEL;WORK:+1 312 368 7031
+TEL;WORK;FAX:+1 312 630 7331
+EMAIL;CHARSET=utf-8; INTERNET:amy.rubenstein@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C US Co-Chair=2C Industrials Sector=0D=0AGlobal Co-Chair=2C Chemicals Subsector=0D=0ACo-Chair=2C Toxic Tort Subgroup
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/rubenstein-amy/
+END:VCARD

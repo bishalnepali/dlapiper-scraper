@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Miller;Tiffany;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;401 B Street Suite 1700;San Diego;California;92101-4297;United States of America
+TEL;WORK:+1 619 699 3445
+TEL;WORK;FAX:+1 619 764 6745
+EMAIL;CHARSET=utf-8; INTERNET:tiffany.miller@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/m/miller-tiffany/
+END:VCARD

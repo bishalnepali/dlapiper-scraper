@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Vasquez;Cara;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1000 Louisiana Street Suite 2800;Houston;Texas;77002-5005;United States of America
+TEL;WORK:+1 713 425 8468
+TEL;WORK;FAX:+1 713 300 6038
+TEL;CELL:+1 979 578 6110
+EMAIL;CHARSET=utf-8; INTERNET:cara.vasquez@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/v/vasquez-cara/
+END:VCARD

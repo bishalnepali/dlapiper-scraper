@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Mulholland;William;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2525 East Camelback Road Suite 1000;Phoenix;Arizona;85016-4232;United States of America
+TEL;WORK:+1 480 606 5171
+TEL;WORK;FAX:+1 480 323 2471
+EMAIL;CHARSET=utf-8; INTERNET:william.mulholland@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/m/mulholland-william/
+END:VCARD

@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Bookhout;James;C.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1900 N. Pearl St Suite 2200;Dallas;Texas;75201-2482;United States of America
+TEL;WORK:+1 214 743 4549 
+TEL;WORK;FAX:+1 972 813 6249
+EMAIL;CHARSET=utf-8; INTERNET:james.bookhout@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/b/bookhout-james/
+END:VCARD

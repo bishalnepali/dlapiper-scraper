@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Ferris;Jody;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;80 South Eighth Street Suite 2800;Minneapolis;Minnesota;55402-2103;United States of America
+TEL;WORK:+1 612 524 3023
+TEL;WORK;FAX:+1 612 524 3053
+EMAIL;CHARSET=utf-8; INTERNET:Jody.Ferris@us.dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/f/ferris-jody/
+END:VCARD

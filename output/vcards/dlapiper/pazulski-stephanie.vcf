@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Pazulski;Stephanie;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;4141 Parklake Avenue Suite 300;Raleigh;North Carolina;27612-2350;United States of America
+TEL;WORK:+1 919 786 2052
+TEL;WORK;FAX:+1 919 786 2252
+EMAIL;CHARSET=utf-8; INTERNET:stephanie.pazulski@us.dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/p/pazulski-stephanie/
+END:VCARD

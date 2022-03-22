@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Reed;John;L.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1201 North Market Street Suite 2100;Wilmington;Delaware;19801;United States of America
+TEL;WORK:+1 302 468 5635
+TEL;WORK;FAX:+1 302 397 2143
+EMAIL;CHARSET=utf-8; INTERNET:john.reed@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:The Venture Alley: http://www.theventurealley.com/=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/reed-john-l/
+END:VCARD

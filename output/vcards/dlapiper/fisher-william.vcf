@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Fisher;William;(Skip);;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;701 Fifth Avenue Suite 6900;Seattle;Washington;98104-7029;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;36/F=2C Shanghai World Financial Center 100 Century Avenue=2C Pudong;Shanghai;;200120;China
+TEL;WORK:+1 206 839 4839
+TEL;WORK;FAX:+1 206 494 1829
+EMAIL;CHARSET=utf-8; INTERNET:william.fisher@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/f/fisher-william/
+END:VCARD

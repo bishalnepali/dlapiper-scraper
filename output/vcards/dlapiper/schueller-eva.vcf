@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Schueller;Eva;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;555 Mission Street Suite 2400;San Francisco;California;94105-2933;United States of America
+TEL;WORK:+1 415 615 6042
+TEL;WORK;FAX:+1 415 659 7419
+EMAIL;CHARSET=utf-8; INTERNET:evi.schueller@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:www.linkedin.com/in/evischueller=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/schueller-eva/
+END:VCARD

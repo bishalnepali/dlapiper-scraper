@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Radcliffe;Mark;F.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 University Avenue;East Palo Alto;California;94303-2214;United States of America
+TEL;WORK:+1 650 833 2266
+TEL;WORK;FAX:+1 650 687 1222
+EMAIL;CHARSET=utf-8; INTERNET:mark.radcliffe@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with Mark on LinkedIn: https://www.linkedin.com/in/markfradcliffe/=0D=0AConnect with Mark on Twitter: https://twitter.com/markfradcliffe=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/radcliffe-mark-f/
+END:VCARD

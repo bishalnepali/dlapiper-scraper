@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Bratt;Bob;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Fountain Square 11911 Freedom Drive Suite 300;Reston;Virginia;20190-5602;United States of America
+TEL;WORK:+1 202 799 4604
+TEL;WORK;FAX:+1 202 799 5604
+EMAIL;CHARSET=utf-8; INTERNET:bob.bratt@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:=2C Chief Operating Officer and Executive Director=2C US Operations
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with Bob: https://www.linkedin.com/in/bobbratt=0D=0AFollow Bob: https://twitter.com/bobbratt=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/b/bratt-bob/
+END:VCARD

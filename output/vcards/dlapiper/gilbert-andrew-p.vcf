@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Gilbert;Andrew;P.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;51 John F. Kennedy Parkway Suite 120;Short Hills;New Jersey;07078-2704;United States of America
+TEL;WORK:+1 973 520 2553
+TEL;WORK;FAX:+1 973 520 2573
+TEL;CELL:+1 908 400 2105
+EMAIL;CHARSET=utf-8; INTERNET:andrew.gilbert@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Vice Chair=2C Corporate US=0D=0AGlobal Co-Chair=2C Life Sciences Sector
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/g/gilbert-andrew-p/
+END:VCARD

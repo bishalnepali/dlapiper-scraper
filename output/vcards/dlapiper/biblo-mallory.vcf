@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Biblo;Mallory;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1900 N. Pearl St Suite 2200;Dallas;Texas;75201-2482;United States of America
+TEL;WORK:+1 214 743 4584
+TEL;WORK;FAX:+1 214 665 5981
+EMAIL;CHARSET=utf-8; INTERNET:mallory.biblo@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/b/biblo-mallory/
+END:VCARD

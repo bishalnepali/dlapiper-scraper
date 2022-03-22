@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Rattigan;John;E.;;Jr.
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;33 Arch Street 26th Floor;Boston;Massachusetts;02110-1447;United States of America
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;POSTAL:;;1251 Avenue of the Americas;New York;New York;10020-1104;United States of America
+TEL;WORK:+1 617 406 6057
+TEL;WORK;FAX:+1 617 406 6157
+EMAIL;CHARSET=utf-8; INTERNET:john.rattigan@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Managing Partner=2C Boston Office
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/r/rattigan-john-e/
+END:VCARD

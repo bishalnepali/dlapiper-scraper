@@ -1,0 +1,11 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Waite;Mark;A.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1000 Louisiana Street Suite 2800;Houston;Texas;77002-5005;United States of America
+TEL;WORK:+1 713 425 8445
+EMAIL;CHARSET=utf-8; INTERNET:mark.waite@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Global Co-Chair=2C Industrials Sector=0D=0AGlobal Co-Chair=2C Chemicals Subsector=0D=0AManaging Partner=2C Houston Office
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/w/waite-mark-a/
+END:VCARD

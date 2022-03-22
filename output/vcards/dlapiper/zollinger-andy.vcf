@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Zollinger;Andy;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1900 N. Pearl St Suite 2200;Dallas;Texas;75201-2482;United States of America
+TEL;WORK:+1 214 743 4509
+TEL;WORK;FAX:+1 972 813 6246
+TEL;CELL:+1 818 518 7317
+EMAIL;CHARSET=utf-8; INTERNET:andrew.zollinger@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/z/zollinger-andy/
+END:VCARD

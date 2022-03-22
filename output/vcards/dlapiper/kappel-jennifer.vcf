@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Kappel;Jennifer;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Liberty Place 1650 Market Street Suite 5000;Philadelphia;Pennsylvania;19103-7300;United States of America
+TEL;WORK:+1 215 656 3364
+TEL;WORK;FAX:+1 215 606 2064
+EMAIL;CHARSET=utf-8; INTERNET:jennifer.kappel@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/k/kappel-jennifer/
+END:VCARD

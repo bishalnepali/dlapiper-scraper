@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Astiz;Peter;M.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 University Avenue;East Palo Alto;California;94303-2214;United States of America
+TEL;WORK:+1 650 833 2036
+TEL;WORK;FAX:+1 650 687 1159
+EMAIL;CHARSET=utf-8; INTERNET:peter.astiz@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Senior Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me on LinkedIn: http://www.linkedin.com/pub/peter-astiz/1/908/4b3=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/a/astiz-peter-m/
+END:VCARD

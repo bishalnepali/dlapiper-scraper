@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Patel;Rita;M.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+TEL;WORK:+1 202 799 4242
+TEL;WORK;FAX:+1 202 799 5242
+EMAIL;CHARSET=utf-8; INTERNET:rita.patel@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Chair=2C US Employee Benefits and Executive Compensation Practice=0D=0ACo-Chair=2C Transactions Services Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/p/patel-rita-m/
+END:VCARD

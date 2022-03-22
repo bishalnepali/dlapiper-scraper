@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Self;Meagan;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1900 N. Pearl St Suite 2200;Dallas;Texas;75201-2482;United States of America
+TEL;WORK:+1 214 743 4556 
+TEL;WORK;FAX:+1 972 813 6254
+EMAIL;CHARSET=utf-8; INTERNET:meagan.self@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/self-meagan/
+END:VCARD

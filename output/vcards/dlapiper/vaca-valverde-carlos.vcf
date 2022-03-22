@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Vaca Valverde;Carlos;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;500 Eighth Street=2C NW;Washington=2C DC;;20004;United States of America
+TEL;WORK:+1 202 799 4206
+TEL;WORK;FAX:+1 202 799 5206
+EMAIL;CHARSET=utf-8; INTERNET:carlos.vacavalverde@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:=2C Admitted in New York only=0D=0ANot admitted in District of Columbia but being supervised by a licensed District of Columbia Bar member
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me: https://www.linkedin.com/in/carlos-vaca-valverde-b72b2a29/=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/v/vaca-valverde-carlos/
+END:VCARD

@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Luukkonen;Mattias;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;4365 Executive Drive Suite 1100;San Diego;California;92121-2133;United States of America
+TEL;WORK:+1 858 677 1436
+TEL;WORK;FAX:+1 858 638 5036
+EMAIL;CHARSET=utf-8; INTERNET:mattias.luukkonen@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:www.linkedin.com/in/mattiasluukkonen=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/l/luukkeonen-mattias/
+END:VCARD

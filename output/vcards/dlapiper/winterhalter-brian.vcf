@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Winterhalter;Brian;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Fountain Square 11911 Freedom Drive Suite 300;Reston;Virginia;20190-5602;United States of America
+TEL;WORK:+1 703 773 4016
+TEL;WORK;FAX:+1 703 773 5016
+TEL;CELL:+1 703 867 0708
+EMAIL;CHARSET=utf-8; INTERNET:brian.winterhalter@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/w/winterhalter-brian/
+END:VCARD

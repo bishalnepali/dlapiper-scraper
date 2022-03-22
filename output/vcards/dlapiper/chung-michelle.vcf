@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Chung;Michelle;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 Avenue of the Stars Suite 400 North Tower;Los Angeles;California;90067-4735;United States of America
+TEL;WORK:+1 310 595 3111
+TEL;WORK;FAX:+1 310 595 3311
+EMAIL;CHARSET=utf-8; INTERNET:michelle.chung@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/c/chung-michelle/
+END:VCARD

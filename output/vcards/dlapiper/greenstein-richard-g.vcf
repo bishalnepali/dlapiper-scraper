@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Greenstein;Richard;G.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1201 West Peachtree Street Suite 2900;Atlanta;Georgia;30309-3449;United States of America
+TEL;WORK:+1 404 736 7816
+TEL;WORK;FAX:+1 404 682 7816
+EMAIL;CHARSET=utf-8; INTERNET:rich.greenstein@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner=2C Chair=2C Franchise and Distribution Practice
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/g/greenstein-richard-g/
+END:VCARD

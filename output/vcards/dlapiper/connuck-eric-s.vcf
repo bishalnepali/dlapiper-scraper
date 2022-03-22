@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Connuck;Eric;S.;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Liberty Place 1650 Market Street Suite 5000;Philadelphia;Pennsylvania;19103-7300;United States of America
+TEL;WORK:+1 215.656.2456
+TEL;WORK;FAX:+1 215 606 2056
+EMAIL;CHARSET=utf-8; INTERNET:eric.connuck@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Of Counsel
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me on LinkedIn: http://www.linkedin.com/in/connuck=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/c/connuck-eric-s/
+END:VCARD

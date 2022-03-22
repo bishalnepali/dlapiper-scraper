@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Lowell;Bret;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;One Fountain Square 11911 Freedom Drive Suite 300;Reston;Virginia;20190-5602;United States of America
+TEL;WORK:+1 703 773 4242
+TEL;WORK;FAX:+1 703 773 5053
+EMAIL;CHARSET=utf-8; INTERNET:bret.lowell@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Partner
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with me on LinkedIn: https://www.linkedin.com/in/bret-lowell-b62552b=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/l/lowell-bret/
+END:VCARD

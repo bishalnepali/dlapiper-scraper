@@ -1,0 +1,14 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Caires;Elizabeth S. M. (Liz);;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;1900 N. Pearl St Suite 2200;Dallas;Texas;75201-2482;United States of America
+TEL;WORK:+1 214 743 4555
+TEL;WORK;FAX:+1 214 665 5995
+TEL;CELL:+1 410 979 4144
+EMAIL;CHARSET=utf-8; INTERNET:liz.caires@dlapiper.com 
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Attorney
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+NOTE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Connect with Liz on LinkedIn: https://www.linkedin.com/in/elizabeth-s-m-caires/=0D=0A
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/c/caires-liz/
+END:VCARD

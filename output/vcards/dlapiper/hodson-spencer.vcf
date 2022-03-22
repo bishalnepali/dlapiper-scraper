@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Hodson;Spencer;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;400 Capitol Mall Suite 2400;Sacramento;California;95814-4428;United States of America
+TEL;WORK:+1 916 930 3208
+TEL;WORK;FAX:+1 916 403 1632
+EMAIL;CHARSET=utf-8; INTERNET:spencer.hodson@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/h/hodson-spencer/
+END:VCARD

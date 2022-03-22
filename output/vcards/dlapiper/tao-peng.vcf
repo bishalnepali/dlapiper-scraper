@@ -1,0 +1,13 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Tao;Peng;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;2000 University Avenue;East Palo Alto;California;94303-2214;United States of America
+TEL;WORK:+1 650 833 2405
+TEL;WORK;FAX:+1 650 687 1120
+TEL;CELL:+852 5328 4663
+EMAIL;CHARSET=utf-8; INTERNET:peng.tao@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:=2C Admitted in New York only=0D=0ANot admitted in California but being supervised by a licensed California Bar member=0D=0A&nbsp=3B
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/t/tao-peng/
+END:VCARD

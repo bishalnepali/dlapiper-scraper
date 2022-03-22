@@ -1,0 +1,12 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Sharkey;Tim;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;51 John F. Kennedy Parkway Suite 120;Short Hills;New Jersey;07078-2704;United States of America
+TEL;WORK:+1 973 307 3058
+TEL;WORK;FAX:+1 973 520 2583
+EMAIL;CHARSET=utf-8; INTERNET:tim.sharkey@dlapiper.com 
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Associate
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/sharkey-tim/
+END:VCARD

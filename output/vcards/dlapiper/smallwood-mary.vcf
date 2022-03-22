@@ -1,0 +1,11 @@
+BEGIN:VCARD
+FN:
+N;CHARSET=utf-8:Smallwood;Mary;;;
+ADR;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE;WORK:;;200 South Biscayne Boulevard Suite 2500;Miami;Florida;33131-5341;United States of America
+TEL;WORK:+1 813 222 5975
+EMAIL;CHARSET=utf-8; INTERNET:mary.smallwood@dlapiper.com
+TITLE;CHARSET=utf-8;ENCODING=QUOTED-PRINTABLE:Senior Legal Consultant
+ROLE;CHARSET=utf-8:
+ORG;CHARSET=utf-8:DLA Piper LLP (US)
+URL; WORK;CHARSET=utf-8:https://www.dlapiper.com:443/en/us/people/s/smallwood-mary/
+END:VCARD
